@@ -20,10 +20,22 @@
             },
             "type": "Feature",
             "properties": {
-                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "popupContent": "Mount Hood",
                 "marker-size": "small"
             },
             "id": 1
-        }
+        },
+  {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.1944,46.1912]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Mount St. Helens",
+                "marker-size": "small"
+            },
+            "id": 1
+        }        
    ]
 }
