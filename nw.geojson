@@ -12,6 +12,18 @@
                 "marker-size": "large"
             },
             "id": 51
+        },
+                {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -121.695919,45.373514]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "marker-size": "large"
+            },
+            "id": 1
         }
    ]
 }
