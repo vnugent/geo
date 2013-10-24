@@ -25,7 +25,7 @@
             },
             "id": 1
         },
-  {
+        {
             "geometry": {
                 "type": "Point",
                 "coordinates": [-122.1944,46.1912]
@@ -36,6 +36,18 @@
                 "marker-size": "small"
             },
             "id": 1
-        }        
+        } ,
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.490895,46.202412]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Mount Adams",
+                "marker-size": "small"
+            },
+            "id": 1
+        }         
    ]
 }
