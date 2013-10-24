@@ -48,6 +48,18 @@
                 "marker-size": "small"
             },
             "id": 1
-        }         
+        }      ,
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.772543,44.166227]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "North Sister",
+                "marker-size": "small"
+            },
+            "id": 1
+        } 
    ]
 }
