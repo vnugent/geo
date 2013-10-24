@@ -4,14 +4,12 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    45.523452,
-                    -122.676207
-                ]
+                "coordinates": [45.523452,-122.676207]
             },
             "type": "Feature",
             "properties": {
-                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!"
+                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "marker-size": "large"
             },
             "id": 51
         }
