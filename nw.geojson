@@ -60,6 +60,18 @@
                 "marker-size": "small"
             },
             "id": 1
-        } 
+        } ,
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.60317,48.83155]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Mount Shuksan",
+                "marker-size": "small"
+            },
+            "id": 1
+        }         
    ]
 }
