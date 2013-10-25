@@ -10,7 +10,8 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Hood",
-                "marker-size": "small"
+        "marker-symbol":"skiing", 
+                "marker-size": "large"
             },
             "id": 1
         },
@@ -23,7 +24,8 @@
             "properties": {
                 "popupContent": "Mount St. Helens",
                 "foo": "bar",
-                "marker-size": "small"
+            "marker-symbol":"skiing", 
+                "marker-size": "large"
             },
             "id": 1
         } ,
@@ -35,7 +37,8 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Adams",
-                "marker-size": "small"
+                 "marker-symbol":"skiing", 
+                "marker-size": "medium"
             },
             "id": 1
         }      ,
@@ -47,6 +50,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "North Sister",
+                 "marker-symbol":"dog-park", 
                 "marker-size": "small"
             },
             "id": 1
@@ -59,7 +63,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Shuksan",
-                "marker-symbol":"skiing",  "marker-color":"#f00"
+                "marker-symbol":"skiing", 
                 "marker-size": "small"
             },
             "id": 1
@@ -72,7 +76,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Rainier",
-                "marker-symbol":"triangle", "marker-size":"small", "marker-color":"#f00"
+                "marker-symbol":"skiing", "marker-size":"small"
             },
             "id": 1
         }             
