@@ -72,6 +72,18 @@
                 "marker-size": "small"
             },
             "id": 1
-        }         
+        }     ,
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.760374,46.852886]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Mount Rainier",
+                "marker-size": "small"
+            },
+            "id": 1
+        }             
    ]
 }
