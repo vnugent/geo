@@ -1,18 +1,7 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.77854,45.55873]
-            },
-            "type": "Feature",
-            "properties": {
-                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
-                "marker-size": "small"
-            },
-            "id": 51
-        },
+      
                 {
             "geometry": {
                 "type": "Point",
@@ -33,6 +22,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount St. Helens",
+                "foo": "bar",
                 "marker-size": "small"
             },
             "id": 1
@@ -69,6 +59,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Shuksan",
+                "marker-symbol":"skiing",  "marker-color":"#f00"
                 "marker-size": "small"
             },
             "id": 1
@@ -81,7 +72,7 @@
             "type": "Feature",
             "properties": {
                 "popupContent": "Mount Rainier",
-                "marker-size": "small"
+                "marker-symbol":"triangle", "marker-size":"small", "marker-color":"#f00"
             },
             "id": 1
         }             
